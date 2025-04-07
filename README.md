@@ -1,4 +1,13 @@
-## Hi there 👋
+# Welcome to my Profile!
+
+I'm a Software Engineer currently residing in Dallas, Texas working at canonical on the [landscape](https://ubuntu.com/landscape) team.
+
+## 📈 Profile stats
+<div style="display:flex;flex-flow:row wrap;justify-content:center;align-items:center">
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=david-mclain&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=david-mclain&theme=github_dark"/></a>
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=david-mclain&theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=david-mclain&theme=github_dark"/></a>
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=david-mclain&theme=github_dark&utcOffset=-5"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=david-mclain&theme=github_dark&utcOffset=-5"/></a>
+</div>
 
 <!--
 **david-mclain/david-mclain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
